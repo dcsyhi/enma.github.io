@@ -12,6 +12,7 @@
 |Twitter|[@enma](https://twitter.com/enma)|
 |Qiita|[qiita.com/enma](http://qiita.com/enma)|
 |Scrapbox|[scrapbox.io/enma](http://scrapbox.io/enma)|
+|GitHub|[https://github.com/dcsyhi](https://github.com/dcsyhi)|
 
 ## 職務経歴
 
@@ -39,6 +40,8 @@
 
 職務：Panasonic製ビジネスモバイルPC 完成工程 検査ソフトの開発
 - Eclipse+ADTを使って社内イベント（FZ-N1を使ったバーコードラリー）用Androidアプリの作成を行った
+
+- 海外コンフィグ工場立ち上げプロジェクトに参画。米国ミズーリ州のHeartland Configuration Centerに海外出張し、カナダ人プログラマと共同で工程検査プログラム（言語はVisualBasic)のカスタマイズ・メンテナンスを行なった。
 
 
 - 職務内容の詳細を箇条書きでかく
