@@ -1,15 +1,14 @@
-# 職務経歴書
+# 職務経歴書 2018-10-12(Fri) Updated
 
 ## 基本情報
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|中野 貴史 (なかの たかし))|
+|Webサイト|[Garden of AMNE](http://amne.info)|
+|Twitter|[@enma](https://twitter.com/enma)|
+|Qiita|[qiita.com/enma](http://qiita.com/enma)|
+|Scrapbox|[scrapbox.io/enma](http://scrapbox.io/enma)|
 
 ## スキル
 
