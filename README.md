@@ -75,7 +75,6 @@ Proc. of 2012 IEEE International Meeting for Future of Electron Devices, Kansai 
 - Windows Server 2012 R2(業務ではWindowsOSのLANインストールで使用。DismコマンドによるWimファイルのカスタマイズ経験あり)
 - Apache2.4, Nginx（RaspbianおよびUbuntu, Amazon Lightsail上で使用）
 
-
 ## 強み
 
 - これまで複数の事業場で様々な職種の人たちと仕事を共にした経験から、対人折衝は得意
@@ -83,6 +82,7 @@ Proc. of 2012 IEEE International Meeting for Future of Electron Devices, Kansai 
 - プログラミングが好きなこと
 
 ## 転職を希望している理由
+
 - 弊社PCの製造・出荷に際し、検査ソフトの作成およびメンテナンス業務に従事しているが、独自言語かつ古い技術を使う場面がほとんどで、新しい技術に触れる機会が非常に少ない ⇨  汎用性があり、もっと新規技術に触れる仕事がしたい
 - 2017年にLIFE SHIFTや超AI時代の生存戦略を読んで、スペシャリスト的な生き方をしたいと考えAIS社からCNS社に異動した。
 この時期からIT関連の話題に積極的にウォッチするようになり、この業界で身を立てたいという気落ちが更に強まっている
