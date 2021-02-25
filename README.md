@@ -9,7 +9,7 @@
 |---|-----|
 |氏名|中野 貴史 (なかの たかし)|
 |性別|男性|
-|年齢|満31才|
+|年齢|満33才|
 |最終学歴|神戸大学大学院工学研究科 電気電子工学専攻 修了(修士)|
 |Qiita|[qiita.com/enma](http://qiita.com/enma)|
 |GitHub|[https://github.com/dcsyhi](https://github.com/dcsyhi)|
