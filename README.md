@@ -68,7 +68,7 @@ Proc. of 2012 IEEE International Meeting for Future of Electron Devices, Kansai 
 - Java（FZ-N1の2D-BCR機能を使ったスタンプラリー用Androidアプリの作成で使用）
 - PHP（Laravelを使って簡単なWebサイトを構築した経験あり）
 - Python（OQC用アプリの開発および、Sphinxを使って社内ドキュメントの整理を行った経験あり）
-- Elm（Qiita上に記事投稿経験あり。[Elm Adbent Calender 2017 16日目](https://qiita.com/enma/items/4f5a6514b6fd3f43b80c)）
+- Elm（Qiita上に記事投稿経験あり。[Elm Adbent Calender 2017 16日目](https://qiita.com/enma/items/4f5a6514b6fd3f43b80c)、[SelectListを使ってElmでマス目を作成する](https://qiita.com/enma/items/92d3a33e95c7e6515cef)、[Elmでクォータービューを実装する](https://qiita.com/enma/items/4daad227b05761549e9a)）
 - VisualBasic（海外コンフィグ工場立ち上げ時に使用）
 
 ### 自然言語
