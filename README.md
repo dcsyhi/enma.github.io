@@ -73,7 +73,7 @@ Proc. of 2012 IEEE International Meeting for Future of Electron Devices, Kansai 
 
 ### 自然言語
 
-- 英語(直近では海外コンフィグ工場立ち上げ時に会話で使用。TOEIC665点(2019年8月))
+- 英語(直近では海外コンフィグ工場立ち上げ時に会話で使用。TOEIC665点(2019年))
 
 ## 強み
 
