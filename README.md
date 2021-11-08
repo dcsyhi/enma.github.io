@@ -1,7 +1,7 @@
 # 職務経歴書 
 
 ## 改訂履歴
-2020-02-17 (Tue) 経歴をアップデート
+2021-11-08 (Mon) 経歴をアップデート
 
 ## 基本情報
 
@@ -9,7 +9,7 @@
 |---|-----|
 |氏名|中野 貴史 (なかの たかし)|
 |性別|男性|
-|年齢|満33才|
+|年齢|満34才|
 |最終学歴|神戸大学大学院工学研究科 電気電子工学専攻 修了(修士)|
 |Qiita|[qiita.com/enma](http://qiita.com/enma)|
 |GitHub|[https://github.com/dcsyhi](https://github.com/dcsyhi)|
@@ -73,7 +73,7 @@ Proc. of 2012 IEEE International Meeting for Future of Electron Devices, Kansai 
 
 ### 自然言語
 
-- 英語(直近では海外コンフィグ工場立ち上げ時に会話で使用。TOEIC665点(2019年))
+- 英語(直近では海外コンフィグ工場立ち上げ時に会話で使用。TOEIC700点(2021年))
 
 ## 強み
 
