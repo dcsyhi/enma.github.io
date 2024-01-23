@@ -3,6 +3,7 @@
 ## 改訂履歴
 2021-11-08 (Mon) 経歴をアップデート
 2023-02-16 (Thu) 職務内容をアップデート
+2024-01-23 (Tue) 資格をアップデート
 ## 基本情報
 
 |key|value|
@@ -61,6 +62,7 @@
 ### 資格
 
 - 基本情報技術者
+- 応用情報技術者
 - 簿記3級
 - Microsoft Office2019 Excel Specialist
 - Microsoft Office2019 Excel Expert
